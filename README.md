@@ -1,1 +1,1 @@
-# BharatIntern_Task2-Wine_Quality_Prediction
+# BharatInternTask2-Wine_Quality_Prediction
